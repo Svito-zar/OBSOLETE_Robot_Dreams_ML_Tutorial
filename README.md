@@ -1,4 +1,4 @@
-# Robot_Dreams_ML_Tutorial
+# Robot_Dreams ML Практикум
 Практикум по машинному обучению для украинской компании Robot Dreams.
 
 Больше про компанию Robot Dreams можно почитать сдесь: https://robotdreams.cc
