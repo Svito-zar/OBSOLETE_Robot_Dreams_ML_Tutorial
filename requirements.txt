@@ -12,3 +12,5 @@ scipy==1.5.2
 six==1.15.0
 sklearn==0.0
 torch==1.6.0
+torchvision==0.7.0
+tqdm==4.50.2
